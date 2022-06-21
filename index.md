@@ -12,6 +12,17 @@
 - 💬 Ask me about **ML, DL, Python, R**
 
 ### Blogs posts
+
+My blogs primarily cover below areas:
+
+1. Artificial intelligence (AI)
+2. Machine learning (ML)
+3. Deep learning (DL)
+4. Computer vision
+5. Autonomous vehicles (AV) / Self driving cars
+6. ML/DL frameworks - TensorFlow, PyTorch, scikit-learn etc.
+7. Python, R
+
 <!-- BLOG-POST-LIST:START -->
 ranga4all1.github.io
 <!-- BLOG-POST-LIST:END -->
