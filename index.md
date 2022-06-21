@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ranga4all1/my_projects](https://github.com/ranga4all1/my_projects)
 
-- 📝 I regularly write articles on: [https://medium.com/@ranga4all1_/](https://medium.com/@ranga4all1_/)
+- 📝 I regularly write articles on [https://medium.com/@ranga4all1_/](https://medium.com/@ranga4all1_/)
 
-- 📝 and also on: https://ranga4all1.github.io
+- 📝 and also on [https://ranga4all1.github.io](https://ranga4all1.github.io)
 
 - 💬 Ask me about **ML, DL, Python, R**
 
