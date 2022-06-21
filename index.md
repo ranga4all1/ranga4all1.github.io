@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm R.H</h1>
 <h3 align="center">AI/DL/ML enthusiast</h3>
 
-- 🌱 I’m currently learning **Deep learning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ranga4all1/my_projects](https://github.com/ranga4all1/my_projects)
-
-- 📝 I regularly write articles on [https://medium.com/@ranga4all1_/](https://medium.com/@ranga4all1_/)
-
-- 📝 and also on [https://ranga4all1.github.io](https://ranga4all1.github.io)
-
-- 💬 Ask me about **ML, DL, Python, R**
-
 ### Blogs posts
 
 My blogs primarily cover below areas:
@@ -26,6 +16,17 @@ My blogs primarily cover below areas:
 <!-- BLOG-POST-LIST:START -->
 ranga4all1.github.io
 <!-- BLOG-POST-LIST:END -->
+
+- 🌱 I’m currently learning **Deep learning**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ranga4all1/my_projects](https://github.com/ranga4all1/my_projects)
+
+- 📝 I regularly write articles on [https://medium.com/@ranga4all1_/](https://medium.com/@ranga4all1_/)
+
+- 📝 and also on [https://ranga4all1.github.io](https://ranga4all1.github.io)
+
+- 💬 Ask me about **ML, DL, Python, R**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
