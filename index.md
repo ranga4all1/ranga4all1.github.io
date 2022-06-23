@@ -14,7 +14,7 @@ My blogs primarily cover below areas:
 7. Python, R
 
 <!-- BLOG-POST-LIST:START -->
-ranga4all1.github.io
+1. 2022-06-22-food101-pytorch.md
 <!-- BLOG-POST-LIST:END -->
 
 - 🌱 I’m currently learning **Deep learning**
