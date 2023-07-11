@@ -1,37 +1,31 @@
-<h1 align="center">Hi 👋, I'm R.H</h1>
-<h3 align="center">AI/DL/ML enthusiast</h3>
+<h1 align="center">Ranga Hande</h1>
+<h3 align="center">Data Analyst</h3>
 
-### Blogs posts
+[Email](mailto:ranga4all1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rangahande/) | [GitHub](https://github.com/rangahande) | [Tableau Public](https://public.tableau.com/profile/rangahande) | [Medium](https://medium.com/@ranga4all1_/)
 
-My blogs primarily cover below areas:
+Results-oriented technology professional focused on Data Analytics. Highly effective at working with cross-functional teams to accomplish projects on-time and according to constraints.
+## Skills
 
-1. Artificial intelligence (AI)
-2. Machine learning (ML)
-3. Deep learning (DL)
-4. Computer vision
-5. Autonomous vehicles (AV) / Self driving cars
-6. ML/DL frameworks - TensorFlow, PyTorch, scikit-learn etc.
-7. Python, R
+- Data Analysis - SQL, Python, Spreadsheets, Tableau
+- Data Visualization - Tableau
+- Project, Product, and People Management
+- Python - Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- Data Analysis - SQL, Google Spreadsheets
 
-<!-- BLOG-POST-LIST:START -->
-1. 2022-06-22-food101-pytorch.md
-<!-- BLOG-POST-LIST:END -->
+## Projects
+- All projects available at: [GitHub](https://github.com/rangahande)
+## Blog posts
 
-- 🌱 I’m currently learning **Deep learning**
+- I regularly write articles on: [Medium](https://medium.com/@ranga4all1_/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ranga4all1/my_projects](https://github.com/ranga4all1/my_projects)
+    My blogs primarily cover below areas:
 
-- 📝 I regularly write articles on [https://medium.com/@ranga4all1_/](https://medium.com/@ranga4all1_/)
+    1. Data Analysis - SQL, Python, Spreadsheets, Tableau
+    2. Artificial intelligence (AI)
+    3. Machine learning (ML) & Deep learning (DL)
+    4. Computer vision
+    5. Autonomous vehicles (AV) / Self driving cars
 
-- 📝 and also on [https://ranga4all1.github.io](https://ranga4all1.github.io)
-
-- 💬 Ask me about **ML, DL, Python, R**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@ranga4all1_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ranga4all1_" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
