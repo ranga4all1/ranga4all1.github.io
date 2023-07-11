@@ -1,5 +1,3 @@
-# Your blog
+# Ranga Hande
 
-This is the repository for my blogs!
-
-Welcome to my blogs on github pages!!
+Welcome to my GitHub web page!
